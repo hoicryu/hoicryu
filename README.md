@@ -4,7 +4,7 @@
 
 I aim to work happily!
 
-Skills:  REACT / JS / HTML / CSS
+Skills:  REACT / JS / RUBY ON RAILS / SVELTE
 
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on nice people 
