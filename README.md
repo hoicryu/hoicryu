@@ -21,6 +21,13 @@ I like learning new things!
 - 📫 How to reach me: hoicryu@gmail.com 
 - 😄 Pronouns: Ho~~it!
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/hoicryu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/hoic_ryu/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/velog.svg' alt='velog' height='30'>](https://velog.io/@hoicryu)
+### Contact
+<p>
+  <a href="https://velog.io/@hoicryu" alt="velog" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
+  <a href="mailto:hoicryu@gmail.com" alt="gmail" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
+</p>
+  
