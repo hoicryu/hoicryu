@@ -27,7 +27,7 @@ I like learning new things!
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
   <a href="mailto:hoicryu@gmail.com" alt="gmail">
-    <img src="https://img.shields.io/badge/hoicryu@gmail.com-1EBC8F?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/hoicryu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
   
