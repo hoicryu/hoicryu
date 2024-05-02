@@ -26,8 +26,8 @@ I like learning new things!
   <a href="https://velog.io/@hoicryu" alt="velog" target="_blank">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
-  <a href="mailto:hoicryu@gmail.com" alt="gmail" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
+  <a href="mailto:hoicryu@gmail.com" alt="gmail">
+    <img src="https://img.shields.io/badge/hoicryu@gmail.com-1EBC8F?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
   
